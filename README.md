@@ -26,21 +26,21 @@ https://tur-prices.petru.tech/api/v1/prices.json
 [
   {
     "rate_name": "TUR1",
-    "date": "2023-10",
+    "date": "2024-01",
     "variable_price": "0.0511",
     "fixed_price": "3.85",
     "currency": "EUR"
   },
   {
     "rate_name": "TUR2",
-    "date": "2023-10",
+    "date": "2024-01",
     "variable_price": "0.0481",
     "fixed_price": "7.12",
     "currency": "EUR"
   },
   {
     "rate_name": "TUR3",
-    "date": "2023-10",
+    "date": "2024-01",
     "variable_price": "0.0454",
     "fixed_price": "14.92",
     "currency": "EUR"
