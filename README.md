@@ -17,7 +17,7 @@ Welcome to the TUR Prices for Spain! This project aims to provide easy access to
 To get started, simply make a GET request to the following endpoint:
 
 ```
-https://TODO/latest
+https://tur-prices.petru.tech/api/v1/prices.json
 ```
 
 ### Example Response:
