@@ -1,115 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gas TUR Prices API Documentation</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-            background-color: #f8f8f8;
-        }
-
-        header, section, footer {
-            background-color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        p {
-            color: #555;
-        }
-
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 3px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-
-        @media (min-width: 768px) {
-            body {
-                max-width: 80%;
-                margin: 20px auto;
-            }
-        }
-    </style>
-</head>
-
-<body>
-
-<header>
-    <h1>Gas TUR Prices API</h1>
-    <p>Welcome to the Gas TUR Prices API for Spain! This API provides real-time Gas TUR prices in a convenient and
-        parseable format.</p>
-</header>
-
-<section>
-    <h2>Features</h2>
-    <ul>
-        <li><strong>Real-time Data:</strong> Access the latest Gas TUR prices.</li>
-        <li><strong>Easy to Integrate:</strong> Simple integration into your projects.</li>
-        <li><strong>Simple Data Format:</strong> Clear and easy-to-parse JSON format.</li>
-    </ul>
-</section>
-
-<section>
-    <h2>Usage</h2>
-    <p>To get started, make a GET request to the following endpoint:</p>
-    <pre><code>https://tur-prices.petru.tech/api/v1/prices.json</code></pre>
-    <p>Example Response:</p>
-    <pre><code>[
-  {
-    "rate_name": "TUR1",
-    "date": "2024-01",
-    "variable_price": "0.0511",
-    "fixed_price": "3.85",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR2",
-    "date": "2024-01",
-    "variable_price": "0.0481",
-    "fixed_price": "7.12",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR3",
-    "date": "2024-01",
-    "variable_price": "0.0454",
-    "fixed_price": "14.92",
-    "currency": "EUR"
-  }
-]</code></pre>
-</section>
-
-<section>
-    <h2>Contribution</h2>
-    <p>We welcome contributions! Report bugs, suggest new features, or improve documentation by opening an <a
-            href="https://github.com/psincraian/tur-prices/issues">issue</a> or submitting a <a
-            href="https://github.com/psincraian/tur-prices/pulls">pull request</a>.</p>
-</section>
-
-<footer>
-    <p>Happy coding!</p>
-</footer>
-
-</body>
-
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React + TS</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>

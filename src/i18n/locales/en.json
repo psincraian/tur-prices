@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "home": "Home",
+    "data": "Data",
+    "api": "API"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "hero": {
+    "title": "Spanish Gas Price Tracker",
+    "subtitle": "Track and compare regulated gas prices (TUR) in Spain. Stay informed about the latest changes and make better energy decisions."
+  },
+  "prices": {
+    "title": "Current Prices",
+    "variablePrice": "Variable Price",
+    "fixedPrice": "Fixed Monthly Fee",
+    "lastUpdated": "Last updated"
+  },
+  "data": {
+    "title": "Historical Data Analysis",
+    "selectRate": "Select Rate",
+    "historicalPrices": "Historical Gas Prices",
+    "priceTable": "Price History",
+    "date": "Date",
+    "variablePrice": "Variable Price (€/kWh)",
+    "fixedPrice": "Fixed Price (€/month)"
+  },
+  "about": {
+    "title": "What is TUR?",
+    "description": "TUR (Tarifa Última Recurso) is Spain's regulated gas tariff system designed to protect consumers. It offers stable, government-regulated prices that are reviewed quarterly.",
+    "rates": {
+      "tur1": "TUR1: For consumers with annual consumption up to 5,000 kWh",
+      "tur2": "TUR2: For consumers with annual consumption between 5,000 and 15,000 kWh",
+      "tur3": "TUR3: For consumers with annual consumption between 15,000 and 50,000 kWh (Deprecated)"
+    }
+  },
+  "suppliers": {
+    "title": "Authorized Suppliers",
+    "phone": "Phone",
+    "coverage": "Coverage",
+    "visitWebsite": "Visit Website"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "q1": {
+        "question": "Who can apply for TUR rates?",
+        "answer": "Any consumer with annual gas consumption under 50,000 kWh can request TUR rates from authorized suppliers."
+      },
+      "q2": {
+        "question": "How often do prices change?",
+        "answer": "TUR prices are reviewed and updated quarterly by the government."
+      },
+      "q3": {
+        "question": "How do I switch to TUR?",
+        "answer": "Contact any of the authorized suppliers listed above. They are obligated to offer TUR rates to eligible consumers."
+      }
+    }
+  }
+}
