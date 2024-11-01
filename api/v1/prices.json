@@ -1,44 +1,44 @@
 [
   {
     "rate_name": "TUR1",
-    "date": "2024-03",
+    "date": "2024-10",
     "variable_price": "0.0511",
-    "fixed_price": "3.85",
+    "fixed_price": "3.26",
     "currency": "EUR"
   },
   {
     "rate_name": "TUR2",
-    "date": "2024-03",
-    "variable_price": "0.0481",
-    "fixed_price": "7.12",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR3",
-    "date": "2024-03",
-    "variable_price": "0.0454",
-    "fixed_price": "14.92",
+    "date": "2024-10",
+    "variable_price": "0.0501",
+    "fixed_price": "5.66",
     "currency": "EUR"
   },
   {
     "rate_name": "TUR1",
-    "date": "2024-02",
-    "variable_price": "0.0511",
-    "fixed_price": "3.85",
+    "date": "2024-07",
+    "variable_price": "0.0409",
+    "fixed_price": "3.26",
     "currency": "EUR"
   },
   {
     "rate_name": "TUR2",
-    "date": "2024-02",
-    "variable_price": "0.0481",
-    "fixed_price": "7.12",
+    "date": "2024-07",
+    "variable_price": "0.04",
+    "fixed_price": "5.66",
     "currency": "EUR"
   },
   {
-    "rate_name": "TUR3",
-    "date": "2024-02",
-    "variable_price": "0.0454",
-    "fixed_price": "14.92",
+    "rate_name": "TUR1",
+    "date": "2024-04",
+    "variable_price": "0.0434",
+    "fixed_price": "3.26",
+    "currency": "EUR"
+  },
+  {
+    "rate_name": "TUR2",
+    "date": "2024-04",
+    "variable_price": "0.0409",
+    "fixed_price": "5.66",
     "currency": "EUR"
   },
   {
@@ -64,48 +64,6 @@
   },
   {
     "rate_name": "TUR1",
-    "date": "2023-12",
-    "variable_price": "0.0467",
-    "fixed_price": "3.85",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR2",
-    "date": "2023-12",
-    "variable_price": "0.0438",
-    "fixed_price": "7.12",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR3",
-    "date": "2023-12",
-    "variable_price": "0.0454",
-    "fixed_price": "14.92",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR1",
-    "date": "2023-11",
-    "variable_price": "0.0467",
-    "fixed_price": "3.85",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR2",
-    "date": "2023-11",
-    "variable_price": "0.0438",
-    "fixed_price": "7.12",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR3",
-    "date": "2023-11",
-    "variable_price": "0.0454",
-    "fixed_price": "14.92",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR1",
     "date": "2023-10",
     "variable_price": "0.0467",
     "fixed_price": "3.85",
@@ -121,48 +79,6 @@
   {
     "rate_name": "TUR3",
     "date": "2023-10",
-    "variable_price": "0.0454",
-    "fixed_price": "14.92",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR1",
-    "date": "2023-09",
-    "variable_price": "0.0431",
-    "fixed_price": "5.03",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR2",
-    "date": "2023-09",
-    "variable_price": "0.0403",
-    "fixed_price": "9.52",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR3",
-    "date": "2023-09",
-    "variable_price": "0.0454",
-    "fixed_price": "14.92",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR1",
-    "date": "2023-08",
-    "variable_price": "0.0431",
-    "fixed_price": "5.03",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR2",
-    "date": "2023-08",
-    "variable_price": "0.0403",
-    "fixed_price": "9.52",
-    "currency": "EUR"
-  },
-  {
-    "rate_name": "TUR3",
-    "date": "2023-08",
     "variable_price": "0.0454",
     "fixed_price": "14.92",
     "currency": "EUR"
