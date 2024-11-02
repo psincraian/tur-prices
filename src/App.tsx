@@ -8,7 +8,7 @@ import './i18n';
 
 function App() {
   return (
-    <BrowserRouter basename="/spanish-gas-prices">
+    <BrowserRouter basename="/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />

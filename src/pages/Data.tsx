@@ -80,6 +80,13 @@ const historicalData = [
     "currency": "EUR"
   },
   {
+    "rate_name": "TUR3",
+    "date": "2024-01",
+    "variable_price": "0.0454",
+    "fixed_price": "14.92",
+    "currency": "EUR"
+  },
+  {
     "rate_name": "TUR1",
     "date": "2023-10",
     "variable_price": "0.0467",
@@ -94,6 +101,13 @@ const historicalData = [
     "currency": "EUR"
   },
   {
+    "rate_name": "TUR3",
+    "date": "2023-10",
+    "variable_price": "0.0454",
+    "fixed_price": "14.92",
+    "currency": "EUR"
+  },
+  {
     "rate_name": "TUR1",
     "date": "2023-07",
     "variable_price": "0.0431",
@@ -105,6 +119,13 @@ const historicalData = [
     "date": "2023-07",
     "variable_price": "0.0403",
     "fixed_price": "9.52",
+    "currency": "EUR"
+  },
+  {
+    "rate_name": "TUR3",
+    "date": "2023-07",
+    "variable_price": "0.0454",
+    "fixed_price": "14.92",
     "currency": "EUR"
   }
 ].sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
