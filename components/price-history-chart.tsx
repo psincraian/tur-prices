@@ -41,13 +41,13 @@ export function PriceHistoryChart() {
                         variant={rateType === 'variable' ? 'default' : 'outline'}
                         onClick={() => setRateType('variable')}
                     >
-                        Variable Rate
+                        Tarifa variable
                     </Button>
                     <Button
                         variant={rateType === 'fixed' ? 'default' : 'outline'}
                         onClick={() => setRateType('fixed')}
                     >
-                        Fixed Rate
+                        Tarifa fija
                     </Button>
                 </div>
             </div>
