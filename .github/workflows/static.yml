@@ -36,7 +36,7 @@ jobs:
           node-version: 20
           cache: 'npm'
       - name: Install dependencies
-        run: npm ci
+        run: npm i
       - name: Build
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
