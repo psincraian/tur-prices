@@ -26,7 +26,7 @@ export default function ApiDocs() {
                         </p>
                         <CodeBlock
                             language="json"
-                            code="https://test.com"
+                            code="https://tur-prices.petru.tech"
                         />
 
                     </div>
