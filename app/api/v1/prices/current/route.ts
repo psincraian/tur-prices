@@ -3,11 +3,15 @@ import {getCurrentPrices} from '@/lib/data';
 
 export async function GET(request: Request) {
     try {
-        return NextResponse.json({data: getCurrentPrices()});
+        const response = NextResponse.json({data: getCurrentPrices()});
+        response.headers.set('Content-Type', 'application/json');
+        return response;
     } catch (error) {
-        return NextResponse.json(
+        const errorResponse = NextResponse.json(
             {error: 'Internal server error'},
             {status: 500}
         );
+        errorResponse.headers.set('Content-Type', 'application/json');
+        return errorResponse;
     }
 }
