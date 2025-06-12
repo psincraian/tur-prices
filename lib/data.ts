@@ -7,7 +7,9 @@ export const priceHistory = [
             {date: '2024-01-01', variableRate: 0.0511, fixedRate: 3.85},
             {date: '2024-04-01', variableRate: 0.0439, fixedRate: 3.85},
             {date: '2024-07-01', variableRate: 0.0439, fixedRate: 3.85},
-            {date: '2024-10-01', variableRate: 0.0511, fixedRate: 3.26}
+            {date: '2024-10-01', variableRate: 0.0511, fixedRate: 3.26},
+            {date: '2025-01-01', variableRate: 0.0575, fixedRate: 3.26},
+            {date: '2025-04-01', variableRate: 0.0438, fixedRate: 3.26}
         ]
     },
     {
@@ -18,7 +20,9 @@ export const priceHistory = [
             {date: '2024-01-01', variableRate: 0.0481, fixedRate: 7.12},
             {date: '2024-04-01', variableRate: 0.0409, fixedRate: 7.12},
             {date: '2024-07-01', variableRate: 0.0409, fixedRate: 7.12},
-            {date: '2024-10-01', variableRate: 0.0501, fixedRate: 5.66}
+            {date: '2024-10-01', variableRate: 0.0501, fixedRate: 5.66},
+            {date: '2025-01-01', variableRate: 0.0565, fixedRate: 5.66},
+            {date: '2025-04-01', variableRate: 0.0427, fixedRate: 5.66}
         ]
     },
     {
@@ -30,6 +34,8 @@ export const priceHistory = [
             {date: '2024-04-01', variableRate: 0.0382, fixedRate: 14.92},
             {date: '2024-07-01', variableRate: 0.0382, fixedRate: 14.92},
             {date: '2024-10-01', variableRate: 0.0462, fixedRate: 13.37},
+            {date: '2025-01-01', variableRate: 0.0526, fixedRate: 13.37},
+            {date: '2025-04-01', variableRate: 0.0389, fixedRate: 13.37},
         ]
     }
 ] as const;
