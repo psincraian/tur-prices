@@ -11,7 +11,8 @@ export const priceHistory = [
             {date: '2025-01-01', variableRate: 0.0575, fixedRate: 3.26},
             {date: '2025-04-01', variableRate: 0.0438, fixedRate: 3.26},
             {date: '2025-10-01', variableRate: 0.0450, fixedRate: 3.93},
-            {date: '2026-01-01', variableRate: 0.0426, fixedRate: 3.93}
+            {date: '2026-01-01', variableRate: 0.0426, fixedRate: 3.93},
+            {date: '2026-04-01', variableRate: 0.0382, fixedRate: 3.93}
         ]
     },
     {
@@ -26,7 +27,8 @@ export const priceHistory = [
             {date: '2025-01-01', variableRate: 0.0565, fixedRate: 5.66},
             {date: '2025-04-01', variableRate: 0.0427, fixedRate: 5.66},
             {date: '2025-10-01', variableRate: 0.0429, fixedRate: 8.11},
-            {date: '2026-01-01', variableRate: 0.0405, fixedRate: 8.11}
+            {date: '2026-01-01', variableRate: 0.0405, fixedRate: 8.11},
+            {date: '2026-04-01', variableRate: 0.0361, fixedRate: 8.11}
         ]
     },
     {
@@ -41,7 +43,8 @@ export const priceHistory = [
             {date: '2025-01-01', variableRate: 0.0526, fixedRate: 13.37},
             {date: '2025-04-01', variableRate: 0.0389, fixedRate: 13.37},
             {date: '2025-10-01', variableRate: 0.0394, fixedRate: 18.82},
-            {date: '2026-01-01', variableRate: 0.0371, fixedRate: 18.82}
+            {date: '2026-01-01', variableRate: 0.0371, fixedRate: 18.82},
+            {date: '2026-04-01', variableRate: 0.0326, fixedRate: 18.82}
         ]
     }
 ] as const;
